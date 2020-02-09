@@ -1,6 +1,10 @@
-# AngularCrud
+# Angular Crud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. using TypeScript and BootStrap.
+
+A simple CRUD system made with Angular.
+
+![Angular CRUD](/src/assets/img/AngularCrud.png)
 
 ## Development server
 
